@@ -19,3 +19,7 @@
 #define IF if(
 #define THEN )
 #define BUT_ACTUALLY_THOUGH else
+#define I_FEEL_LIKE for(
+#define GREW_UP ++
+#define THAT_KID int
+#define AND_MAYBE ;
